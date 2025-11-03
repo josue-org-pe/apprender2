@@ -1,0 +1,5 @@
+{
+  "name": "Course Platform",
+  "description": "An interactive web application to browse, search, and save educational courses. Users can view course details and manage a list of their favorite courses.",
+  "requestFramePermissions": []
+}
